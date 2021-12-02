@@ -6,7 +6,7 @@
 В каждой папке 2 файла: тетрадь с проектом и README с описанием проекта.
 ### Какие технологии используются в проектах
 **Языки:** `Python`, `SQL`.  
-**Библиотеки:** `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Statsmodels`, `SQLAlchemy`, `Requests`, `Re`, `Pymystem3`.
+**Библиотеки:** `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Statsmodels`, `SQLAlchemy`, `BeautifulSoup`, `Requests`, `Re`, `Pymystem3`.
 ### Что это за проекты?
 Свой путь в аналитики данных я начал с курса Яндекс.Практикума. Каждые 2 недели мы, студенты курса, выполняли проекты, используя изученные инструменты.
 В итоге получилось 11 ноутбуков, которые и представлены здесь.
