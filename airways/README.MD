@@ -2,7 +2,7 @@
 # Задача
 При помощи парсинга и SQL-запроса выгрузить данные с сайта и из базы, а затем проанализировать.
 ### Что использовал
-`SQL`, `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Requests`, `BeautifulSoup`
+`Git` `SQL`, `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Requests`, `BeautifulSoup`
 ### План
 1. Изучить данные.
 2. Найти пропуски, дубликаты. Обработать ошибки.
