@@ -1,12 +1,11 @@
-# Описание
-Это репозиторий с ноутбуками моих проектов по анализу данных.
+# Description
+This is a repository of notebooks with my data analysis projects.
 ***
-### Структура
-Каждый проект — отдельная папка репозитория.  
-В каждой папке 2 файла: тетрадь с проектом и README с описанием проекта.
-### Какие технологии используются в проектах
-**Языки:** `Python`, `SQL`.  
-**Библиотеки:** `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Statsmodels`, `SQLAlchemy`, `BeautifulSoup`, `Requests`, `Re`, `Pymystem3`.
-### Что это за проекты?
-Свой путь в аналитики данных я начал с курса Яндекс.Практикума. Каждые 2 недели мы, студенты курса, выполняли проекты, используя изученные инструменты.
-В итоге получилось 11 ноутбуков, которые и представлены здесь.
+### Structure
+Each project is a separate repository folder.  
+There are 2 files in each folder: a notebook with a project and a README with a description of the project.
+### What technologies are used in the projects
+**Languages:** `Python`, `SQL`.  
+**Libraries:** `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Statsmodels`, `SQLAlchemy`, `BeautifulSoup`, `Requests`, `Re`, `Pymystem3`.
+### What are these projects?
+I started my way into data analysis with the Yandex.Practicum course. Every 2 weeks, we, the students of the course, carried out projects using the tools we learned. As a result, I got 11 notebooks which are presented here.
